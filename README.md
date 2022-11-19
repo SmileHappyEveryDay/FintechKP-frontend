@@ -4,4 +4,4 @@
 
 > a website maintaining the double-blind reviewing process of the Conference "DASFAA 2023"
 
->> Enjoy the URL: https://albert-jin.github.io/FintechKP-frontend/
+>> Enjoy the URL: https://SmileHappyEveryDay.github.io/FintechKP-frontend/
